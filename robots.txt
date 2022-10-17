@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://apllec.github.io/sitemap.xml
